@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'am Sumantri S
 
 <!--
 **soemantris/soemantris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on YouTube @sumantris
+- 🌱 I’m currently learning Django Web Framework
+- 💬 Ask me about Django Web Framework, DRF API, and others
+- 📫 How to reach me: sumsyahrul@gmail.com
