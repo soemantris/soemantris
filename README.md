@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sumsyahrul@gmail.com
 
 #### Skills :
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/) [![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://python.org/) [![My Skills](https://skillicons.dev/icons?i=tailwindcss&theme=light)](https://tailwindcss.com/) ![My Skills](https://skillicons.dev/icons?i=html&theme=light)
 
 #### Connect with me :
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/sumantri-s)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
