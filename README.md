@@ -1,4 +1,4 @@
-## Hi there 👋 I'am Sumantri S
+### Hi there 👋 I'am Sumantri S
 <!-- 
 **soemantris/soemantris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Django Web Framework, DRF API, and others
 - 📫 How to reach me: sumsyahrul@gmail.com
 
-#### Skills :
+#### Skills & tools :
 
-[![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/) [![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://python.org/) [![My Skills](https://skillicons.dev/icons?i=tailwindcss&theme=light)](https://tailwindcss.com/) [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/) ![My Skills](https://skillicons.dev/icons?i=html&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://www.djangoproject.com/) [![My Skills](https://skillicons.dev/icons?i=python&theme=light)](https://python.org/) [![My Skills](https://skillicons.dev/icons?i=tailwindcss&theme=light)](https://tailwindcss.com/) [![My Skills](https://skillicons.dev/icons?i=bootstrap&theme=light)](https://getbootstrap.com/) ![My Skills](https://skillicons.dev/icons?i=html&theme=light) [![My Skills](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/) [![My Skills](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/)
 
 #### Connect with me :
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/sumantri-s) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sumantris/) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumsyahrul@gmail.com)
